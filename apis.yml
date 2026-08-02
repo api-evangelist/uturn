@@ -1,8 +1,26 @@
 aid: uturn
 name: UTURN
-description: UTURN is a company surfaced as a portfolio company of 500-global and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: UTURN Entertainment is a Saudi Arabian digital media and entertainment
+  company founded in 2010 that has grown into the largest Arabic Multi-Channel Network
+  (MCN) in the MENA region. It produces original digital content — comedy sketches,
+  gaming (Saudi Gamer), women's lifestyle (Unseen), sports (MLM), and MMA (MMAnia)
+  shows — distributed across YouTube, TikTok, Snapchat, and other social platforms,
+  and offers content creation, sponsored content, branded content, and digital
+  production services to brands. A 500 Global portfolio company, UTURN publishes
+  no public API or developer surface.
 url: https://raw.githubusercontent.com/api-evangelist/uturn/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://uturn.me/wp-content/uploads/2024/06/cropped-cropped-ICON-192x192.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +29,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Media
+- Entertainment
+- Digital Content
+- Multi-Channel Network
+- Saudi Arabia
+- MENA
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -21,5 +45,22 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/uturn-domain-security.yml
 - type: Website
   url: https://uturn.me
+- type: About
+  url: https://uturn.me/about-us/
+- type: Contact
+  url: https://uturn.me/contact-us/
+- type: Twitter
+  url: https://twitter.com/uturn
+- type: LLMsTxt
+  url: llms/uturn-llms.txt
+- type: WellKnown
+  url: well-known/uturn-well-known.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1

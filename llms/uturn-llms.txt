@@ -1,0 +1,20 @@
+# UTURN
+
+> UTURN Entertainment is a Saudi Arabian digital media and entertainment company founded in 2010, grown into the largest Arabic Multi-Channel Network (MCN) in the MENA region. It produces original digital content — sketches, gaming, lifestyle, and sports shows — across YouTube, TikTok, Snapchat, and other social platforms, and offers content creation, sponsored content, branded content, and digital production services. UTURN publishes no public API or developer surface.
+
+## Company
+
+- [Website](https://uturn.me/): UTURN Entertainment homepage
+- [About Us](https://uturn.me/about-us/): Company history and mission
+- [Services](https://uturn.me/services/): Content creation, sponsored/branded content, digital production
+- [Portfolio](https://uturn.me/portfolio/): Shows and IPs (UTURN Sketches, Saudi Gamer, Unseen, MLM, MMAnia)
+- [U HUB](https://uturn.me/hub/): UTURN's creator hub
+- [Contact](https://uturn.me/contact-us/): Contact form
+
+## Catalog
+
+- [APIs.json profile](https://raw.githubusercontent.com/api-evangelist/uturn/refs/heads/main/apis.yml): API Evangelist network profile for UTURN
+
+## Notes
+
+- No public API, developer portal, or documentation was found for UTURN (checked /.well-known/*, /llms.txt, site navigation, July 2026).
