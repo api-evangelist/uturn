@@ -9,6 +9,9 @@ description: UTURN Entertainment is a Saudi Arabian digital media and entertainm
   production services to brands. A 500 Global portfolio company, UTURN publishes
   no public API or developer surface.
 url: https://raw.githubusercontent.com/api-evangelist/uturn/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "A 500 Global portfolio company, UTURN publishes no public API or developer surface."
 deliveryModel:
   model: unknown
   open_source: false
